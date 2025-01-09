@@ -1,0 +1,25 @@
+{
+  "name": "ticketblaster",
+  "version": "1.0.0",
+  "description": "Need help trying to get that reservation or some hard to get ticket, well, this may come in...vandy!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vandy-io/ticketblaster.git"
+  },
+  "author": "Vandy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vandy-io/ticketblaster/issues"
+  },
+  "homepage": "https://github.com/vandy-io/ticketblaster#readme",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "puppeteer-core": "^23.11.1",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
+  }
+}

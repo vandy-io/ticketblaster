@@ -1,0 +1,25 @@
+{
+  "publicParkingAvailability": {
+    "2025-01-01T00:00:00-08:00": {
+      "status": {
+        "sold_out": false,
+        "unavailable": false,
+        "reservation_not_needed": false
+      },
+      "QEZrNCD": {
+        "available": true,
+        "hashid": "QEZrNCD",
+        "notification": false,
+        "description": "Advanced Paid Reservations 6 AM - 1 PM PST",
+        "price": "30.0"
+      },
+      "aqYVvHP": {
+        "available": false,
+        "hashid": "aqYVvHP",
+        "notification": false,
+        "description": "Free Reservations 6 AM - 1 PM PST",
+        "price": "0.0"
+      }
+    }
+  }
+}
